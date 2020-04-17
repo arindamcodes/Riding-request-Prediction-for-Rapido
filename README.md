@@ -1,7 +1,7 @@
 # Riding request Prediction for Rapido
 Each time a customer has requested a ride,his pickup and drop location is recorded with exact date and time.Now based on this we want to predict the number of ride request for future.
 
-1.Used to google colab for GPU computation and make the runtime very fast as the size of the data is around 550Mb,which is pretty large.
+1.Used google colab for GPU computation and make the runtime very fast as the size of the data is around 550Mb,which is pretty large.
 
 2.Firstly,made a nice looking map using folium library inorder to get an idea that what are the key areas where riding requests was given.
 
